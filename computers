@@ -1,0 +1,112 @@
+I get into the meanest, nastiest frame of mind that I can manage, and I write
+the cruelest code I can think of; then I turn around and embed that in even
+nastier constructions that are almost obscene.
+
+	-- Donald Knuth
+	(The Errors of TeX, 1989)
+%
+I now look forward to making further errors in my next project.
+
+	-- Donald Knuth
+	(Notes on the errors of TeX, 10th TUG meeting, 1986)
+%
+Proof by analogy is fraud.
+
+	-- Bjarne Stroustrup
+	(The C++ Programming Language, p. 692)
+%
+Only half of the C++ community is above average
+	-- Bjarne Stroustrup
+	(his FAQ, "a WG21 evening session")
+%
+I have a simple rule in life: If I don't understand something, it must be bad.
+
+	-- Linus Torvalds
+	(Unsourced, before 2002)
+%
+When in doubt, use brute force.
+
+	-- Ken Thompson
+	(quoted by E. Raymond in "The Art of Unix Programming")
+%
+Robert Metcalf [the inventor of Ethernet] says that if something comes along to
+replace Ethernet, it will be called “Ethernet”, so therefore Ethernet will never
+die. Unix has already undergone several such transformations.
+
+	-- Ken Thompson
+	(quoted by E. Raymond in "The Art of Unix Programming")
+%
+"Be sure brain is in gear before engaging mouth"
+
+	-- Supposedly on a sign at the Air Force Academy, Colorado
+	(quoted by A. Tenenbaum in "Tenenbaum-Torvalds debate, Part II")
+%
+Faggin: So I develop a special etch which eventually ended up being called,
+	Freddy’s Etch.   
+Hendrie:  Very good. 
+Faggin:  After experimenting and burning a hole in my shoe, because it’s…
+	[tape runs out]
+
+	-- Federico Faggin (interviewed by Gardner Hendrie)
+	(The Oral History of Federico Faggin, 2006)
+%
+Mazor and I went to the airport to meet Masatoshi Shima, who was arriving from
+Tokyo.  So we met, and Shima said, “I’m here to check.  I’m here to check.” 
+“Okay, great.”  So we went to the office, and Shima  immediately asked to
+check.  So I asked Mazor if what I had was all that we had, or if there was
+something else, because Shima insisted that he wanted to check the logic, that
+was apparently promised that it was done.  And Mazor said, “No, that’s all we
+have. [...]  Yeah, and Shima looked this thing over and a few minutes later
+said, “This is not what I came to do!”  He was really mad!  He was saying:
+“This is idea.  This is not design.  I want… I came here to check, and there
+is nothing to check!”  He was really, really upset!  And I said, “Well, you
+know, I just joined the company yesterday.”  “Yeah, you bad!  You bad!”
+<laughs>  “You were supposed to do!”  You know, he probably meant Intel, right?
+
+	-- Federico Faggin (interviewed by Gardner Hendrie),
+	  on the Intel 4004 processor.
+	(The Oral History of Federico Faggin, 2006)
+%
+I see you two use the same barber.
+
+	-- Denton Cooley, to Ken Thompson and Dennis Ritchie
+	(quoted by Dennis Ritchie in "Letter from Washington:
+	  The National Medal of Technology Experience", 1999)
+%
+That brings me to Dennis Ritchie.  Our collaboration has been a thing of beauty.
+In the ten years that we have worked together, I can recall only one case of
+miscoordination of work.  On that occasion, I discovered that we both had
+written the same 20-line assembly language program.  I compared the sources and
+was astounded to find that they matched character-for-character.  The result of
+our work together has been far greater than the work that we each contributed.
+
+	-- Ken Thompson
+	(Reflections on Trusting Trust, 1994)
+%
+I think that computing is a finite field and it's reaching its apex and we will
+be on a wane after this. I am sorry to say that, but that's the way I feel.
+
+	-- Ken Thompson
+	(Unix and Beyond: An Interview with Ken Thompson, "Computer", May 1999)
+%
+If you want to go somewhere, goto is the best way to get there.
+
+	--Ken Thompson
+	(Plan9 fortunes file)
+%
+The differences between Kernighan Ritchie Thompson are real but very
+subtle.  We all look alike (middle aged with scruffy graying beards).
+	[...]
+Kernighan has written ten times as much readable prose as has
+Ritchie, Ritchie ten times as much as Thompson.  It's tempting to say
+that the reverse proportions hold for code, but in fact Kernighan and
+Ritchie are more nearly tied and Thompson wipes us both out.
+
+	-- Dennis Ritchie
+	(Unsourced, quoted by message on rec.humor.funny.reruns newsgroup, 1991)
+%
+A distributed system is one in which the failure of a computer you didn't even
+know existed can render your own computer unusable.  
+
+	-- Leslie Lamport
+	(Email message sent to a DEC SRC bulletin board on May 28, 1987)
