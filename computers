@@ -44,27 +44,28 @@ die. Unix has already undergone several such transformations.
 Faggin: So I develop a special etch which eventually ended up being called,
 	Freddy’s Etch.   
 Hendrie:  Very good. 
-Faggin:  After experimenting and burning a hole in my shoe, because it’s…
+Faggin:  After experimenting and burning a hole in my shoe, because it’s...
 	[tape runs out]
 
 	-- Federico Faggin (interviewed by Gardner Hendrie)
 	(The Oral History of Federico Faggin, 2006)
 %
 Mazor and I went to the airport to meet Masatoshi Shima, who was arriving from
-Tokyo.  So we met, and Shima said, “I’m here to check.  I’m here to check.” 
-“Okay, great.”  So we went to the office, and Shima  immediately asked to
+Tokyo.  So we met, and Shima said, "I'm here to check.  I'm here to check." 
+"Okay, great."  So we went to the office, and Shima  immediately asked to
 check.  So I asked Mazor if what I had was all that we had, or if there was
 something else, because Shima insisted that he wanted to check the logic, that
-was apparently promised that it was done.  And Mazor said, “No, that’s all we
+was apparently promised that it was done.  And Mazor said, "No, that’s all we
 have. [...]  Yeah, and Shima looked this thing over and a few minutes later
-said, “This is not what I came to do!”  He was really mad!  He was saying:
-“This is idea.  This is not design.  I want… I came here to check, and there
-is nothing to check!”  He was really, really upset!  And I said, “Well, you
-know, I just joined the company yesterday.”  “Yeah, you bad!  You bad!”
-<laughs>  “You were supposed to do!”  You know, he probably meant Intel, right?
+said, "This is not what I came to do!"  He was really mad!  He was saying:
+"This is idea.  This is not design.  I want... I came here to check, and there
+is nothing to check!"  He was really, really upset!  And I said, "Well, you
+know, I just joined the company yesterday."  "Yeah, you bad!  You bad!"
+<laughs>  "You were supposed to do!"  You know, he probably meant Intel, right?
 
 	-- Federico Faggin (interviewed by Gardner Hendrie),
-	  on the Intel 4004 processor.
+	  on the Intel 4004 processor, which was months late with no efforts
+	  from Intel.
 	(The Oral History of Federico Faggin, 2006)
 %
 I see you two use the same barber.
@@ -110,3 +111,12 @@ know existed can render your own computer unusable.
 
 	-- Leslie Lamport
 	(Email message sent to a DEC SRC bulletin board on May 28, 1987)
+%
+One thread of related languages is:
+Algol -> CPL -> BCPL -> B -> C -> C++ -> Java, indicating that BCPL is just a
+small link in the chain from the development of Algol in the late 1950s to 
+Java in the 1980s.
+
+	-- Martin Richards
+	(Young Persons Guide to BCPL Programming on the Raspberry Pi, Part 1,
+	 Revised on September 10, 2018)
