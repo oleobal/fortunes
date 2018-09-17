@@ -118,5 +118,14 @@ small link in the chain from the development of Algol in the late 1950s to
 Java in the 1980s.
 
 	-- Martin Richards
-	(Young Persons Guide to BCPL Programming on the Raspberry Pi, Part 1,
+	(Young Persons Guide to BCPL Programming on the Raspberry Pi, Last
 	 Revised on September 10, 2018)
+%
+By the way, 'em' stands for 'editor for mortals' - I christened it that after
+Ken Thompson visited our lab at QMC while I was developing it and said
+something like:
+  "yeah, I've seen editors like that, but I don't feel a need for them, I don't
+  want to see the state of the file when I'm editing".
+
+	-- George Coulouris
+	(Interview with Peter Salus, A Quarter Century of UNIX, P. H. Salus, 1994)
