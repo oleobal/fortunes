@@ -118,8 +118,8 @@ small link in the chain from the development of Algol in the late 1950s to
 Java in the 1980s.
 
 	-- Martin Richards
-	(Young Persons Guide to BCPL Programming on the Raspberry Pi, Last
-	 Revised on September 10, 2018)
+	(Young Persons Guide to BCPL Programming on the Raspberry Pi, Retrieved
+	 September 10, 2018)
 %
 By the way, 'em' stands for 'editor for mortals' - I christened it that after
 Ken Thompson visited our lab at QMC while I was developing it and said
@@ -138,3 +138,10 @@ The good thing about reinventing the wheel is that you can get a round one.
 The Software shall be used for Good, not Evil.
 
 	-- The (infamous) JSON License
+%
+Hardware is quite tangible: if you drop a computer on your foot, you'll notice.
+Not true for software. 
+
+	-- Brian Kernighan
+	("What Should an Educated Person Know about Computers?",
+	 IEEE SSCS NEWS, Spring 2018)
