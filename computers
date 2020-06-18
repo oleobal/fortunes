@@ -133,7 +133,7 @@ something like:
 %
 The good thing about reinventing the wheel is that you can get a round one.
 
-	-- Douglas Crockford, co-creator of JSON, about JSON
+	-- Douglas Crockford, co-creator of JSON, about JSON's relationship to XML
 	(Comment on D. Winner's "Scripting News for 12/20/2006", December 20, 2006)
 %
 The Software shall be used for Good, not Evil.
@@ -206,3 +206,9 @@ value of the company that creates it.
 
 	-- Bill Gates, paraphrased by Chamath Palihapitiya
 	   (interviewed by Semil Shah on September 26, 2015)
+%
+The noted linguistic theorist Benjamin Whorf said that our language determines
+what concepts we can think. C has this effect on Unix; it prevents programmers
+from writing robust software by making such a thing unthinkable.
+
+	-- Unix-Haters Handbook
