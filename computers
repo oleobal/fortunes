@@ -212,3 +212,10 @@ what concepts we can think. C has this effect on Unix; it prevents programmers
 from writing robust software by making such a thing unthinkable.
 
 	-- Unix-Haters Handbook
+%
+Pointers are real. They’re what the hardware understands. Somebody has to deal
+with them. You can’t just place a LISP book on top of an x86 chip and hope that
+the hardware learns about lambda calculus by osmosis.
+
+	-- James Mickens ("The Night Watch",
+	   published in ";login: logout", November 2013)
